@@ -1,9 +1,28 @@
-# Password Generator Starter Code
+# Password Generator
 
 ## User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
+
+```
+## Description
+
+```
+The Password Generator randomly generate a password that meets as numbers, characters lower and upper case and special characters. The strong password will provides greater security for users.
+```
+
+## Gitpage reference
+
+https://secretariuss.github.io/password-generator/
+
+## Screen shots
+
+The following scrshots shows the web application's:
+
+![scrshot1](./assets/images/pg1.png)
+![scrshot2](./assets/images/pg2.png)
+![scrshot3](./assets/images/pg3.png)
 
 ## Acceptance Criteria
 GIVEN I need a new, secure password
